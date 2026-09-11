@@ -37,3 +37,9 @@ Ao final deve se exibir uma mensagem:
  
  
 Bons estudos 😉
+
+
+## CONCLUSÃO
+Este projeto foi desenvolvido como parte dos meus estudos de Lógica de Programação. O programa permite inserir o nome e a quantidade de experiência (XP) de um herói e, por meio de estruturas condicionais, determina seu nível, que pode variar de Ferro a Radiante. Também foi utilizado um laço de repetição para permitir a classificação de vários heróis durante a execução do programa.
+
+Conceitos praticados: variáveis, operadores, estruturas de decisão (if, elif e else), laço de repetição (while), entrada de dados com input() e saída formatada com f-string.
