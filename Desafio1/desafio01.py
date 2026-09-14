@@ -13,7 +13,6 @@ while continuar == "sim":
     # Estrutura de decisão
     if xp <= 1000:
         nivel = "Ferro"
-
     elif xp <= 2000:
         nivel = "Bronze"
 
