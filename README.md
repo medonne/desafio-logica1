@@ -1,45 +1,87 @@
-Instruções para entrega
-# 1️⃣ Desafio Classificador de nível de Herói
+# 🚀 Desafios de Lógica de Programação — DIO
 
-**O Que deve ser utilizado**
+Este repositório reúne os desafios práticos desenvolvidos durante meus estudos de **Lógica de Programação na DIO**.
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
+O objetivo é praticar os fundamentos da programação utilizando **Python**, aplicando os conceitos aprendidos ao longo das aulas em pequenos projetos e desafios.
 
-## Objetivo
+Este repositório também faz parte da construção do meu portfólio no GitHub, registrando minha evolução durante os estudos de programação.
 
-Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+---
 
-Se XP for menor do que 1.000 = Ferro
+## 📚 Desafios
 
-Se XP for entre 1.001 e 2.000 = Bronze
+### 🦸 1. Classificador de Nível de Herói
 
-Se XP for entre 2.001 e 5.000 = Prata
+Programa que recebe o nome e a quantidade de experiência (**XP**) de um herói e determina seu nível.
 
-Se XP for entre 5.001 e 7.000 = Ouro
+**Conceitos praticados:**
 
-Se XP for entre 7.001 e 8.000 = Platina
+* Variáveis
+* Operadores
+* Estruturas condicionais
+* Laços de repetição
+* Entrada e saída de dados
 
-Se XP for entre 8.001 e 9.000 = Ascendente
+📁 `desafio-classificador-heroi`
 
-Se XP for entre 9.001 e 10.000= Imortal
+---
 
-Se XP for maior ou igual a 10.001 = Radiante
+### 🎮 2. Calculadora de Partidas Rankeadas
 
-## Saída
+Programa que recebe a quantidade de **vitórias e derrotas** de um jogador, calcula seu saldo de partidas e determina seu nível no ranking.
 
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
+**Conceitos praticados:**
 
- 
- 
- 
-Bons estudos 😉
+* Variáveis
+* Operadores
+* Estruturas condicionais
+* Laços de repetição
+* Funções
+* Parâmetros e retorno de valores
 
+📁 `desafio-partidas-rankeadas`
 
-## CONCLUSÃO
-Este projeto foi desenvolvido como parte dos meus estudos de Lógica de Programação. O programa permite inserir o nome e a quantidade de experiência (XP) de um herói e, por meio de estruturas condicionais, determina seu nível, que pode variar de Ferro a Radiante. Também foi utilizado um laço de repetição para permitir a classificação de vários heróis durante a execução do programa.
+---
 
-Conceitos praticados: variáveis, operadores, estruturas de decisão (if, elif e else), laço de repetição (while), entrada de dados com input() e saída formatada com f-string.
+## 🛠️ Tecnologias e ferramentas
+
+* Python
+* Visual Studio Code
+* Git
+* GitHub
+
+---
+
+## 🧠 Conceitos estudados
+
+Durante o desenvolvimento dos desafios, estou praticando conceitos fundamentais de programação, como:
+
+* Variáveis e tipos de dados
+* Operadores
+* Estruturas condicionais (`if`, `elif` e `else`)
+* Laços de repetição (`for` e `while`)
+* Funções
+* Entrada de dados com `input()`
+* Saída de dados com `print()`
+* Formatação com `f-strings`
+* Organização e versionamento de código com Git e GitHub
+
+---
+
+## 📈 Evolução
+
+Este repositório será atualizado conforme eu avançar nos estudos e desenvolver novos desafios.
+
+A ideia é acompanhar minha evolução desde os primeiros exercícios de **lógica de programação** até projetos mais completos utilizando Python.
+
+---
+
+## 👩‍💻 Sobre
+
+Estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de tecnologia.
+
+Atualmente estudando e desenvolvendo conhecimentos em **Python, SQL, Power BI, Git e GitHub**, com interesse em desenvolvimento, automação e dados.
+
+---
+
+⭐ Este repositório faz parte do meu portfólio de estudos e será atualizado ao longo da minha jornada em tecnologia.
