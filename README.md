@@ -22,7 +22,7 @@ Programa que recebe o nome e a quantidade de experiência (XP) de um herói e de
 * Laços de repetição
 * Entrada e saída de dados
 
-📁 `desafio-classificador-heroi`
+📁 [Desafio1](./Desafio1)
 
 ---
 
@@ -39,7 +39,7 @@ Programa que recebe a quantidade de vitórias e derrotas de um jogador, calcula 
 * Funções
 * Parâmetros e retorno de valores
 
-📁 `desafio-partidas-rankeadas`
+📁 [Desafio2](./Desafio2)
 
 ---
 
@@ -62,7 +62,7 @@ Programa que cria diferentes tipos de heróis utilizando **classes e objetos**. 
 * Entrada e saída de dados
 * Formatação com f-strings
 
-📁 `desafio-classes-jogo`
+📁 [Desafio3](./Desafio3)
 
 ---
 
